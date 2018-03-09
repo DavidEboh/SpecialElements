@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Input Text Box", "SpecialElements\01. Input Text Box.csproj", "{E5482F29-AE67-4CA9-B294-DBBCD85461CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. CheckBox", "02. CheckBox\02. CheckBox.csproj", "{D1FF31DE-A8FF-4F14-BC84-68B21FCC062C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5482F29-AE67-4CA9-B294-DBBCD85461CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5482F29-AE67-4CA9-B294-DBBCD85461CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5482F29-AE67-4CA9-B294-DBBCD85461CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5482F29-AE67-4CA9-B294-DBBCD85461CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FF31DE-A8FF-4F14-BC84-68B21FCC062C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FF31DE-A8FF-4F14-BC84-68B21FCC062C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FF31DE-A8FF-4F14-BC84-68B21FCC062C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FF31DE-A8FF-4F14-BC84-68B21FCC062C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {004B70C7-198F-496C-9291-B998E49AA133}
+	EndGlobalSection
+EndGlobal
